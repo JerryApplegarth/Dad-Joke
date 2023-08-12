@@ -1,0 +1,15 @@
+{
+  "name": "dad-joke",
+  "version": "1.0.0",
+  "description": "A randon set of bad jokes",
+  "main": "index.js",
+  "scripts": {
+    "compile": "sass --watch public/sass/style.scss public/css/style.css"
+  },
+  "keywords": [
+    "joke",
+    "jokes"
+  ],
+  "author": "Jerry Applegarth",
+  "license": "ISC"
+}
